@@ -13,5 +13,4 @@ spec:
     spec:
       containers:
         - name: streamlit-app
-          image: quay.io/redhat-ai-dev/agentic-sample:latest
-
+          image: quay.io/maysunfaisal/ls1-jan172026:5fdbb479cab30e1109f7d60384fa5e143b58e523@sha256:1e09ed4d175fc167dfed5f6aadfaa6068af96f8f0fb2585c02f8dca4b96695cd
