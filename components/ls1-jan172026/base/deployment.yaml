@@ -13,6 +13,7 @@ metadata:
     app.kubernetes.io/name: ls1-jan172026
     app.kubernetes.io/part-of: ls1-jan172026
     app.kubernetes.io/component: streamlit-ui
+    test: maysun
   name: ls1-jan172026
 spec:
   replicas: 1
