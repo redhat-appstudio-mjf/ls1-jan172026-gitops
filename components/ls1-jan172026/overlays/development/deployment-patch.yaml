@@ -13,4 +13,4 @@ spec:
     spec:
       containers:
         - name: streamlit-app
-          image: quay.io/maysunfaisal/ls1-jan172026:5fdbb479cab30e1109f7d60384fa5e143b58e523@sha256:1e09ed4d175fc167dfed5f6aadfaa6068af96f8f0fb2585c02f8dca4b96695cd
+          image: quay.io/maysunfaisal/ls1-jan172026:e512c80022047e394511afc576ab2f1c1aaef008@sha256:ec02884a636d9387211727c450a2f4fd682bf5c428895d12a28855a675fab66d
